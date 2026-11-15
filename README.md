@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **System Name:** ARIA (Artificially Responsive Intelligent Assistant)  
-> **Authors:** Samar Kalkhanday, Mohammad Moomin Bakshi, Sampreeth  
+> **Authors:** Mohammad Moomin Bakshi, Sampreeth,Samar Kalkhanday  
 > **Core Architecture:** 100% Offline Edge AI via Local LLMs (Ollama)  
 
 ---
