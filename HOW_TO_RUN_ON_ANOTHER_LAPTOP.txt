@@ -1,0 +1,24 @@
+================================================================
+  HOW TO RUN ARIA ON ANOTHER LAPTOP (QUICK 3-STEP SETUP)
+================================================================
+
+1. INSTALL PYTHON & OLLAMA:
+   a) Python 3.10 or 3.11: https://www.python.org/downloads/
+      * IMPORTANT: During installation, check the box "Add Python to PATH"!
+   b) Ollama: https://ollama.com/download
+      * Install and launch Ollama.
+
+2. DOWNLOAD THE MODEL (OLLAMA):
+   Open Command Prompt / Terminal and run:
+      ollama run llama3.2
+   (This downloads the lightweight 3.2B model (~2.0 GB). Once it's downloaded, you can close the prompt.)
+
+3. RUN ARIA:
+   Simply double-click:
+      START_ARIA.bat
+   
+   It will automatically install requirements and launch the web interface at:
+      http://127.0.0.1:8080
+
+   (Optional: For the Terminal CLI version, double-click START_TERMINAL_CHAT.bat)
+================================================================
